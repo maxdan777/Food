@@ -326,7 +326,7 @@ window.addEventListener('DOMContentLoaded', () => {
     .then(data => data.json())
     .then(res => console.log(res));
 
-    //Slider
+    //Slider 
 
     const   slides = document.querySelectorAll('.offer__slide'),
             prev = document.querySelector('.offer__slider-prev'),
