@@ -474,6 +474,7 @@ window.addEventListener('DOMContentLoaded', () => {
             });
         });
 
+        
     //Вариант 1
     // showSlides(slideIndex);
 
