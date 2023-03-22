@@ -473,7 +473,6 @@ window.addEventListener('DOMContentLoaded', () => {
                 dots[slideIndex - 1].style.opacity = 1;
             });
         });
-
         
     //Вариант 1
     // showSlides(slideIndex);
