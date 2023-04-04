@@ -476,8 +476,11 @@ window.addEventListener('DOMContentLoaded', () => {
             dots.forEach(dot => dot.style.opacity = '.5');
             dots[slideIndex - 1].style.opacity = 1;
         });
+<<<<<<< HEAD
     });
 
+=======
+>>>>>>> master
         
     //Вариант 1
     // showSlides(slideIndex);
